@@ -34,7 +34,7 @@ Blynk: BlynkSimpleEsp8266.h
 Clone repositori ini:
 bash
 Copy code
-git clone https://github.com/username/nama-repositori.git
+git clone https://github.com/GregoriusVincentAdam/Penyiraman-Otomatis.git
 Buka file .ino di Arduino IDE.
 Sesuaikan placeholder berikut dengan informasi Anda:
 Token Auth Blynk: Ganti dengan token dari proyek Blynk Anda.
