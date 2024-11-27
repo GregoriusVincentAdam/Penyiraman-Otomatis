@@ -18,7 +18,7 @@ Pemantauan secara real-time melalui aplikasi Blynk.
 - ESP8266 NodeMCU (mikrokontroler)
 - Sensor Kelembapan Tanah Kapasitif
 - Modul Relay
-- Katup Solenoid
+- Solenoid Valve
 - Aplikasi Blynk untuk kontrol IoT dan notifikasi
 - Sumber daya: Solar atau baterai (opsional, sesuai dengan konfigurasi sistem Anda)
 
